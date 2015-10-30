@@ -1,0 +1,4 @@
+var Svp = window.Svp || {}; (function(win, ns) {
+
+    ns.Snda = ns.Survey || {};
+})(window, Svp);
